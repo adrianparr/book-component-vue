@@ -1,4 +1,4 @@
-# book-component
+# book-component-vue
 
 ## Project setup
 ```
